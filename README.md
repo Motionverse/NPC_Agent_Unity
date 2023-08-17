@@ -1,4 +1,4 @@
-# NPC_Agent_Unity
+## Usage
 1、Firstly, configure the Microsoft Azure account, which is mainly used for speech recognition.
 The related IDs can be obtained on the website.  https://speech.microsoft.com/portal
 ![image](https://github.com/Motionverse/NPC_Agent_Unity/assets/109574037/c33884a2-d2e8-40f0-9618-2d8112b3913f)
@@ -18,3 +18,4 @@ We can also configure the character personality and vocal tone for each role.
 
 
 
+This project follows the all-contributors specification. Contributions of any kind welcome!
