@@ -9,8 +9,12 @@ The related IDs can be obtained on the website.  https://speech.microsoft.com/po
 2、The second step, you need to have a chatgpt key, which can be obtained on the OpenAI website.It usually starts with ‘sk’.
 ![image](https://github.com/Motionverse/NPC_Agent_Unity/assets/109574037/e3618613-b3cf-48ee-a383-b3872a13f033)
 
-3、The third step is to obtain the APPID and KEY of the Motionverse platform （www.motionverse.ai）
+3、The third step is to obtain the APPID and KEY of the Motionverse platform 
 Our Motionverse is mainly used to generate actions and expressions.
+Asia region please visit： motionverse.deepscience.cn
+Other regions please visit：motionverse.ai
+
+
 ![image](https://github.com/Motionverse/NPC_Agent_Unity/assets/109574037/39868509-f432-4dfc-9589-f517a8cf6257)
 
 Now you can run normally！
