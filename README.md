@@ -11,10 +11,8 @@ The related IDs can be obtained on the website.  https://speech.microsoft.com/po
 
 3、The third step is to obtain the APPID and KEY of the Motionverse platform 
 Our Motionverse is mainly used to generate actions and expressions.
-
-Asia region please visit： motionverse.deepscience.cn
-
-Other regions please visit：motionverse.ai
+ <br />Asia region please visit： motionverse.deepscience.cn
+ <br />Other regions please visit：motionverse.ai
 
 
 ![image](https://github.com/Motionverse/NPC_Agent_Unity/assets/109574037/39868509-f432-4dfc-9589-f517a8cf6257)
