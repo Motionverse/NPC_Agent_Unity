@@ -9,11 +9,14 @@ You can watch the demo video for our project.
 Open NPC_Agent_Unity\Assets\Scenes\GameScene.unity
 
 1、Firstly, configure the Microsoft Azure account, which is mainly used for speech recognition.
-The related IDs can be obtained on the website.  https://speech.microsoft.com/portal
+The related IDs can be obtained on the website.  
+ <br />https://speech.microsoft.com/portal
+
 ![image](https://github.com/Motionverse/NPC_Agent_Unity/assets/109574037/c33884a2-d2e8-40f0-9618-2d8112b3913f)
 
+
 You can refer to Microsoft's documentation for the parameters， For example, en-US,de-DE,zh-CN
- [Supported languages]([https://markdown.com.cn](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=stt))
+ <br />https://markdown.com.cn](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=stt
 
 
 2、The second step, you need to have a chatgpt key, which can be obtained on the OpenAI website.It usually starts with ‘sk’.
