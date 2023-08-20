@@ -37,5 +37,9 @@ We can also configure the character personality and vocal tone for each role.
 ![image](https://github.com/Motionverse/NPC_Agent_Unity/assets/109574037/f1b3c65b-130d-4f1a-ace6-d07cdf09dcad)
 
 
+motionverse.ai users can refer to this documentation to select voice tones.
+<br /> http://doc.motionverse.ai/BOARDCAST.html#tts_voice_name
+
+
 
 This project follows the all-contributors specification. Contributions of any kind welcome!
